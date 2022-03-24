@@ -1,3 +1,0 @@
-NEW.md
-PEOPLE.md
-README.md
